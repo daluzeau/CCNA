@@ -1,0 +1,18 @@
+navigating the IOS OS.
+
+ctrl + A  to  go at the begining of the command.
+
+Cette commande sert a visualiser les interfaces disponibles sur le réseau.
+
+
+ Router(config)#do show ip  inter
+Router(config)#do show ip  interface brief
+Interface              IP-Address      OK? Method Status                Protocol 
+GigabitEthernet0/0     unassigned      YES NVRAM  administratively down down 
+GigabitEthernet0/1     unassigned      YES NVRAM  administratively down down 
+GigabitEthernet0/2     unassigned      YES NVRAM  administratively down down 
+Vlan1                  unassigned      YES NVRAM  administratively down down
+
+End command to go from high to # exec mode
+
+show running config is very important

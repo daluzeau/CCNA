@@ -1,0 +1,24 @@
+naviguate the Cisco IOS Command.
+
+The User Exec mode is very limited (Routeur>)
+
+The privilege Exec Mode (Routeur#) is the mode where you can get the router/Switch informations.
+
+di? pour savoir qu'elle sont les commandes disponible qui commance par di.
+
+sh or show command is very useful because it show info about the routeur/Switch.
+The show or sh command get you the informations point-in-time informations about the state right now.
+
+debug : the output will be updated in the real-time.(for exemple OSPF : as and  when the packet come in) 
+
+
+Tab completing work on IOS
+
+##Global configuration (make conf change)
+
+configure terminal or conf t
+
+The prompt now look like that : 
+
+Router(config)# 
+
